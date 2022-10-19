@@ -1,0 +1,47 @@
+*{
+    font-family: 'Arial', 'Trebuchet MS', 'Lucida Sans Unicode';
+}
+
+header {
+    width: 100%;
+    font-size: 40px;
+    background-color: lemonchiffon;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    z-index: 4;
+}
+
+h2 {
+    background-color: green;
+    text-align: center;
+    Font-size: 40px;
+    padding: 40px;
+}
+
+#right-mower {
+    float: right;
+    padding: 20px;
+    position: relative;
+}
+
+#left-mower {
+    padding: 20px;
+}
+
+body {
+    background-color: #DAF7A6; 
+}
+
+footer{
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    align-items: center;
+}
+
+.font-center {
+    text-align: center;
+}
